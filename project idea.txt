@@ -1,0 +1,16 @@
+(B2E) & (E2B) Dictionary:
+--------------------------
+1)Translation of words (E2B & B2E)
+2)Dynamic word list
+-Words can be added on user request but with appropiate approval
+-Admin or moderator can add or edit words 
+3)Can store transaction history
+(Login history,word history,admin approval history,Word search history)
+4)Guest access ,Authenticate user access(profile-word added history,approved words added in dictionary,search history,correction request),
+admin user access(all types of approval,tracking history,profile editing ,can add moderators)
+5)Bangla word meaning ,English word meaning,Parts of speech bothi  Bangla & English),Mneminic
+------------------------------------------------------------
+1)Creat Github ID and verify it
+2)Download Github Desktop Apps
+3)Install Xampp or Apache Server with latest PHP version also install MySQL server.
+4)set the directory of Github Desktop App with htdocs location
